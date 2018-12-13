@@ -65,7 +65,7 @@
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0063\"\n}",
   "{\n  \"eGroupStatus\" : \"5\",\n  \"groupID\" : \"0064\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0065\"\n}",
-  "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0066\"\n}",
+  "{\n  \"eGroupStatus\" : \"2\",\n  \"groupID\" : \"0066\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0067\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0068\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0069\"\n}",

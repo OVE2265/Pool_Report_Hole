@@ -1,0 +1,21 @@
+{
+  "eGroupStatus" : "1",
+  "groupID" : "0134",
+  "groupName" : "g_en_0134",
+  "groupInfo" : {
+    "pre" : "en"
+  },
+  "taskList" : [
+    "{\n  \"taskInfo\" : {\n    \"address\" : \"1340\",\n    \"pass\" : \"passB\"\n  },\n  \"taskName\" : \"en_1340\",\n  \"taskID\" : \"1340\",\n  \"createTime\" : \"2018-12-13 20:30:13\",\n  \"eTaskStatus\" : \"1\"\n}",
+    "{\n  \"taskInfo\" : {\n    \"address\" : \"1341\",\n    \"pass\" : \"passB\"\n  },\n  \"taskName\" : \"en_1341\",\n  \"taskID\" : \"1341\",\n  \"createTime\" : \"2018-12-13 20:30:13\",\n  \"eTaskStatus\" : \"1\"\n}",
+    "{\n  \"taskInfo\" : {\n    \"address\" : \"1342\",\n    \"pass\" : \"passB\"\n  },\n  \"taskName\" : \"en_1342\",\n  \"taskID\" : \"1342\",\n  \"createTime\" : \"2018-12-13 20:30:13\",\n  \"eTaskStatus\" : \"1\"\n}",
+    "{\n  \"taskInfo\" : {\n    \"address\" : \"1343\",\n    \"pass\" : \"passB\"\n  },\n  \"taskName\" : \"en_1343\",\n  \"taskID\" : \"1343\",\n  \"createTime\" : \"2018-12-13 20:30:13\",\n  \"eTaskStatus\" : \"1\"\n}",
+    "{\n  \"taskInfo\" : {\n    \"address\" : \"1344\",\n    \"pass\" : \"passB\"\n  },\n  \"taskName\" : \"en_1344\",\n  \"taskID\" : \"1344\",\n  \"createTime\" : \"2018-12-13 20:30:13\",\n  \"eTaskStatus\" : \"1\"\n}",
+    "{\n  \"taskInfo\" : {\n    \"address\" : \"1345\",\n    \"pass\" : \"passB\"\n  },\n  \"taskName\" : \"en_1345\",\n  \"taskID\" : \"1345\",\n  \"createTime\" : \"2018-12-13 20:30:13\",\n  \"eTaskStatus\" : \"1\"\n}",
+    "{\n  \"taskInfo\" : {\n    \"address\" : \"1346\",\n    \"pass\" : \"passB\"\n  },\n  \"taskName\" : \"en_1346\",\n  \"taskID\" : \"1346\",\n  \"createTime\" : \"2018-12-13 20:30:13\",\n  \"eTaskStatus\" : \"1\"\n}",
+    "{\n  \"taskInfo\" : {\n    \"address\" : \"1347\",\n    \"pass\" : \"passB\"\n  },\n  \"taskName\" : \"en_1347\",\n  \"taskID\" : \"1347\",\n  \"createTime\" : \"2018-12-13 20:30:13\",\n  \"eTaskStatus\" : \"1\"\n}",
+    "{\n  \"taskInfo\" : {\n    \"address\" : \"1348\",\n    \"pass\" : \"passB\"\n  },\n  \"taskName\" : \"en_1348\",\n  \"taskID\" : \"1348\",\n  \"createTime\" : \"2018-12-13 20:30:13\",\n  \"eTaskStatus\" : \"1\"\n}",
+    "{\n  \"taskInfo\" : {\n    \"address\" : \"1349\",\n    \"pass\" : \"passB\"\n  },\n  \"taskName\" : \"en_1349\",\n  \"taskID\" : \"1349\",\n  \"createTime\" : \"2018-12-13 20:30:13\",\n  \"eTaskStatus\" : \"1\"\n}"
+  ],
+  "createTime" : "2018-12-13 20:30:13"
+}

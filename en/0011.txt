@@ -3,20 +3,21 @@
     "pre" : "en"
   },
   "taskList" : [
-    "{\n  \"taskInfo\" : {\n    \"address\" : \"0110\",\n    \"pass\" : \"passB\"\n  },\n  \"eTaskStatus\" : \"1\",\n  \"taskName\" : \"en_0110\",\n  \"taskID\" : \"0110\",\n  \"createTime\" : \"2018-12-13 20:30:13\"\n}",
-    "{\n  \"taskInfo\" : {\n    \"address\" : \"0111\",\n    \"pass\" : \"passB\"\n  },\n  \"eTaskStatus\" : \"1\",\n  \"taskName\" : \"en_0111\",\n  \"taskID\" : \"0111\",\n  \"createTime\" : \"2018-12-13 20:30:13\"\n}",
-    "{\n  \"taskInfo\" : {\n    \"address\" : \"0112\",\n    \"pass\" : \"passB\"\n  },\n  \"eTaskStatus\" : \"1\",\n  \"taskName\" : \"en_0112\",\n  \"taskID\" : \"0112\",\n  \"createTime\" : \"2018-12-13 20:30:13\"\n}",
-    "{\n  \"taskInfo\" : {\n    \"address\" : \"0113\",\n    \"pass\" : \"passB\"\n  },\n  \"eTaskStatus\" : \"1\",\n  \"taskName\" : \"en_0113\",\n  \"taskID\" : \"0113\",\n  \"createTime\" : \"2018-12-13 20:30:13\"\n}",
-    "{\n  \"taskInfo\" : {\n    \"address\" : \"0114\",\n    \"pass\" : \"passB\"\n  },\n  \"eTaskStatus\" : \"1\",\n  \"taskName\" : \"en_0114\",\n  \"taskID\" : \"0114\",\n  \"createTime\" : \"2018-12-13 20:30:13\"\n}",
-    "{\n  \"taskInfo\" : {\n    \"address\" : \"0115\",\n    \"pass\" : \"passB\"\n  },\n  \"eTaskStatus\" : \"1\",\n  \"taskName\" : \"en_0115\",\n  \"taskID\" : \"0115\",\n  \"createTime\" : \"2018-12-13 20:30:13\"\n}",
-    "{\n  \"taskInfo\" : {\n    \"address\" : \"0116\",\n    \"pass\" : \"passB\"\n  },\n  \"eTaskStatus\" : \"1\",\n  \"taskName\" : \"en_0116\",\n  \"taskID\" : \"0116\",\n  \"createTime\" : \"2018-12-13 20:30:13\"\n}",
-    "{\n  \"taskInfo\" : {\n    \"address\" : \"0117\",\n    \"pass\" : \"passB\"\n  },\n  \"eTaskStatus\" : \"1\",\n  \"taskName\" : \"en_0117\",\n  \"taskID\" : \"0117\",\n  \"createTime\" : \"2018-12-13 20:30:13\"\n}",
-    "{\n  \"taskInfo\" : {\n    \"address\" : \"0118\",\n    \"pass\" : \"passB\"\n  },\n  \"eTaskStatus\" : \"1\",\n  \"taskName\" : \"en_0118\",\n  \"taskID\" : \"0118\",\n  \"createTime\" : \"2018-12-13 20:30:13\"\n}",
-    "{\n  \"taskInfo\" : {\n    \"address\" : \"0119\",\n    \"pass\" : \"passB\"\n  },\n  \"eTaskStatus\" : \"1\",\n  \"taskName\" : \"en_0119\",\n  \"taskID\" : \"0119\",\n  \"createTime\" : \"2018-12-13 20:30:13\"\n}"
+    "{\n  \"taskName\" : \"en_0110\",\n  \"createTime\" : \"2018-12-13 20:30:13\",\n  \"taskInfo\" : {\n    \"address\" : \"0110\",\n    \"pass\" : \"passB\"\n  },\n  \"resultTime\" : \"2018-12-14 02:32:50\",\n  \"taskID\" : \"0110\",\n  \"distributeTime\" : \"2018-12-14 02:31:14\",\n  \"eTaskStatus\" : \"2\",\n  \"taskResult\" : {\n    \"status\" : \"01\",\n    \"count\" : \"146\"\n  }\n}",
+    "{\n  \"taskName\" : \"en_0111\",\n  \"createTime\" : \"2018-12-13 20:30:13\",\n  \"taskInfo\" : {\n    \"address\" : \"0111\",\n    \"pass\" : \"passB\"\n  },\n  \"resultTime\" : \"2018-12-14 02:34:54\",\n  \"taskID\" : \"0111\",\n  \"distributeTime\" : \"2018-12-14 02:31:14\",\n  \"eTaskStatus\" : \"2\",\n  \"taskResult\" : {\n    \"status\" : \"01\",\n    \"count\" : \"121\"\n  }\n}",
+    "{\n  \"taskName\" : \"en_0112\",\n  \"createTime\" : \"2018-12-13 20:30:13\",\n  \"taskInfo\" : {\n    \"address\" : \"0112\",\n    \"pass\" : \"passB\"\n  },\n  \"resultTime\" : \"2018-12-14 02:37:05\",\n  \"taskID\" : \"0112\",\n  \"distributeTime\" : \"2018-12-14 02:31:14\",\n  \"eTaskStatus\" : \"2\",\n  \"taskResult\" : {\n    \"status\" : \"01\",\n    \"count\" : \"150\"\n  }\n}",
+    "{\n  \"taskName\" : \"en_0113\",\n  \"createTime\" : \"2018-12-13 20:30:13\",\n  \"taskInfo\" : {\n    \"address\" : \"0113\",\n    \"pass\" : \"passB\"\n  },\n  \"resultTime\" : \"2018-12-14 02:39:08\",\n  \"taskID\" : \"0113\",\n  \"distributeTime\" : \"2018-12-14 02:31:14\",\n  \"eTaskStatus\" : \"2\",\n  \"taskResult\" : {\n    \"status\" : \"01\",\n    \"count\" : \"6\"\n  }\n}",
+    "{\n  \"taskName\" : \"en_0114\",\n  \"createTime\" : \"2018-12-13 20:30:13\",\n  \"taskInfo\" : {\n    \"address\" : \"0114\",\n    \"pass\" : \"passB\"\n  },\n  \"resultTime\" : \"2018-12-14 02:41:15\",\n  \"taskID\" : \"0114\",\n  \"distributeTime\" : \"2018-12-14 02:31:14\",\n  \"eTaskStatus\" : \"2\",\n  \"taskResult\" : {\n    \"status\" : \"01\",\n    \"count\" : \"135\"\n  }\n}",
+    "{\n  \"taskName\" : \"en_0115\",\n  \"createTime\" : \"2018-12-13 20:30:13\",\n  \"taskInfo\" : {\n    \"address\" : \"0115\",\n    \"pass\" : \"passB\"\n  },\n  \"resultTime\" : \"2018-12-14 02:43:22\",\n  \"taskID\" : \"0115\",\n  \"distributeTime\" : \"2018-12-14 02:31:14\",\n  \"eTaskStatus\" : \"2\",\n  \"taskResult\" : {\n    \"status\" : \"01\",\n    \"count\" : \"183\"\n  }\n}",
+    "{\n  \"taskName\" : \"en_0116\",\n  \"createTime\" : \"2018-12-13 20:30:13\",\n  \"taskInfo\" : {\n    \"address\" : \"0116\",\n    \"pass\" : \"passB\"\n  },\n  \"resultTime\" : \"2018-12-14 02:45:29\",\n  \"taskID\" : \"0116\",\n  \"distributeTime\" : \"2018-12-14 02:31:14\",\n  \"eTaskStatus\" : \"2\",\n  \"taskResult\" : {\n    \"status\" : \"01\",\n    \"count\" : \"179\"\n  }\n}",
+    "{\n  \"taskName\" : \"en_0117\",\n  \"createTime\" : \"2018-12-13 20:30:13\",\n  \"taskInfo\" : {\n    \"address\" : \"0117\",\n    \"pass\" : \"passB\"\n  },\n  \"resultTime\" : \"2018-12-14 02:47:41\",\n  \"taskID\" : \"0117\",\n  \"distributeTime\" : \"2018-12-14 02:31:14\",\n  \"eTaskStatus\" : \"2\",\n  \"taskResult\" : {\n    \"status\" : \"01\",\n    \"count\" : \"183\"\n  }\n}",
+    "{\n  \"taskName\" : \"en_0118\",\n  \"createTime\" : \"2018-12-13 20:30:13\",\n  \"taskInfo\" : {\n    \"address\" : \"0118\",\n    \"pass\" : \"passB\"\n  },\n  \"resultTime\" : \"2018-12-14 02:49:54\",\n  \"taskID\" : \"0118\",\n  \"distributeTime\" : \"2018-12-14 02:31:14\",\n  \"eTaskStatus\" : \"2\",\n  \"taskResult\" : {\n    \"status\" : \"01\",\n    \"count\" : \"173\"\n  }\n}",
+    "{\n  \"taskName\" : \"en_0119\",\n  \"createTime\" : \"2018-12-13 20:30:13\",\n  \"taskInfo\" : {\n    \"address\" : \"0119\",\n    \"pass\" : \"passB\"\n  },\n  \"resultTime\" : \"2018-12-14 02:52:06\",\n  \"taskID\" : \"0119\",\n  \"distributeTime\" : \"2018-12-14 02:31:14\",\n  \"eTaskStatus\" : \"2\",\n  \"taskResult\" : {\n    \"status\" : \"01\",\n    \"count\" : \"183\"\n  }\n}"
   ],
   "createTime" : "2018-12-13 20:30:13",
+  "resultTime" : "2018-12-14 02:52:06",
   "groupID" : "0011",
-  "eGroupStatus" : "2",
+  "eGroupStatus" : "3",
   "distributeTime" : "2018-12-14 02:31:12",
   "groupName" : "g_en_0011"
 }

@@ -22,7 +22,7 @@
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0020\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0021\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0022\"\n}",
-  "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0023\"\n}",
+  "{\n  \"eGroupStatus\" : \"2\",\n  \"groupID\" : \"0023\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0024\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0025\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0026\"\n}",

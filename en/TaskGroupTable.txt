@@ -8,7 +8,7 @@
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0006\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0007\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0008\"\n}",
-  "{\n  \"eGroupStatus\" : \"2\",\n  \"groupID\" : \"0009\"\n}",
+  "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0009\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0010\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0011\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0012\"\n}",

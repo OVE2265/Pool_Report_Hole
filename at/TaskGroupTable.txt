@@ -124,7 +124,7 @@
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0122\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0123\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0124\"\n}",
-  "{\n  \"eGroupStatus\" : \"2\",\n  \"groupID\" : \"0125\"\n}",
+  "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0125\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0126\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0127\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0128\"\n}",

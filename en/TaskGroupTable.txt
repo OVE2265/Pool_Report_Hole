@@ -39,7 +39,7 @@
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0037\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0038\"\n}",
   "{\n  \"eGroupStatus\" : \"5\",\n  \"groupID\" : \"0039\"\n}",
-  "{\n  \"eGroupStatus\" : \"2\",\n  \"groupID\" : \"0040\"\n}",
+  "{\n  \"eGroupStatus\" : \"5\",\n  \"groupID\" : \"0040\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0041\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0042\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0043\"\n}",

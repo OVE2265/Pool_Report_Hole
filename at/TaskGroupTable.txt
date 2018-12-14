@@ -130,7 +130,7 @@
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0128\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0129\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0130\"\n}",
-  "{\n  \"eGroupStatus\" : \"2\",\n  \"groupID\" : \"0131\"\n}",
+  "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0131\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0132\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0133\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0134\"\n}",

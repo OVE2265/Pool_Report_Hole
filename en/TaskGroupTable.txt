@@ -44,7 +44,7 @@
   "{\n  \"eGroupStatus\" : \"5\",\n  \"groupID\" : \"0042\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0043\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0044\"\n}",
-  "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0045\"\n}",
+  "{\n  \"eGroupStatus\" : \"2\",\n  \"groupID\" : \"0045\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0046\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0047\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0048\"\n}",

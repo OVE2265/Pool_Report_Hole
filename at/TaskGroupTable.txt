@@ -159,7 +159,7 @@
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0157\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0158\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0159\"\n}",
-  "{\n  \"eGroupStatus\" : \"2\",\n  \"groupID\" : \"0160\"\n}",
+  "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0160\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0161\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0162\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0163\"\n}",

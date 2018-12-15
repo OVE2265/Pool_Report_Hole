@@ -3,20 +3,21 @@
     "pre" : "at"
   },
   "taskList" : [
-    "{\n  \"taskInfo\" : {\n    \"address\" : \"1950\",\n    \"pass\" : \"passB\"\n  },\n  \"eTaskStatus\" : \"1\",\n  \"taskName\" : \"at_1950\",\n  \"taskID\" : \"1950\",\n  \"createTime\" : \"2018-12-13 15:24:06\"\n}",
-    "{\n  \"taskInfo\" : {\n    \"address\" : \"1951\",\n    \"pass\" : \"passB\"\n  },\n  \"eTaskStatus\" : \"1\",\n  \"taskName\" : \"at_1951\",\n  \"taskID\" : \"1951\",\n  \"createTime\" : \"2018-12-13 15:24:06\"\n}",
-    "{\n  \"taskInfo\" : {\n    \"address\" : \"1952\",\n    \"pass\" : \"passB\"\n  },\n  \"eTaskStatus\" : \"1\",\n  \"taskName\" : \"at_1952\",\n  \"taskID\" : \"1952\",\n  \"createTime\" : \"2018-12-13 15:24:06\"\n}",
-    "{\n  \"taskInfo\" : {\n    \"address\" : \"1953\",\n    \"pass\" : \"passB\"\n  },\n  \"eTaskStatus\" : \"1\",\n  \"taskName\" : \"at_1953\",\n  \"taskID\" : \"1953\",\n  \"createTime\" : \"2018-12-13 15:24:06\"\n}",
-    "{\n  \"taskInfo\" : {\n    \"address\" : \"1954\",\n    \"pass\" : \"passB\"\n  },\n  \"eTaskStatus\" : \"1\",\n  \"taskName\" : \"at_1954\",\n  \"taskID\" : \"1954\",\n  \"createTime\" : \"2018-12-13 15:24:06\"\n}",
-    "{\n  \"taskInfo\" : {\n    \"address\" : \"1955\",\n    \"pass\" : \"passB\"\n  },\n  \"eTaskStatus\" : \"1\",\n  \"taskName\" : \"at_1955\",\n  \"taskID\" : \"1955\",\n  \"createTime\" : \"2018-12-13 15:24:06\"\n}",
-    "{\n  \"taskInfo\" : {\n    \"address\" : \"1956\",\n    \"pass\" : \"passB\"\n  },\n  \"eTaskStatus\" : \"1\",\n  \"taskName\" : \"at_1956\",\n  \"taskID\" : \"1956\",\n  \"createTime\" : \"2018-12-13 15:24:06\"\n}",
-    "{\n  \"taskInfo\" : {\n    \"address\" : \"1957\",\n    \"pass\" : \"passB\"\n  },\n  \"eTaskStatus\" : \"1\",\n  \"taskName\" : \"at_1957\",\n  \"taskID\" : \"1957\",\n  \"createTime\" : \"2018-12-13 15:24:06\"\n}",
-    "{\n  \"taskInfo\" : {\n    \"address\" : \"1958\",\n    \"pass\" : \"passB\"\n  },\n  \"eTaskStatus\" : \"1\",\n  \"taskName\" : \"at_1958\",\n  \"taskID\" : \"1958\",\n  \"createTime\" : \"2018-12-13 15:24:06\"\n}",
-    "{\n  \"taskInfo\" : {\n    \"address\" : \"1959\",\n    \"pass\" : \"passB\"\n  },\n  \"eTaskStatus\" : \"1\",\n  \"taskName\" : \"at_1959\",\n  \"taskID\" : \"1959\",\n  \"createTime\" : \"2018-12-13 15:24:06\"\n}"
+    "{\n  \"taskName\" : \"at_1950\",\n  \"createTime\" : \"2018-12-13 15:24:06\",\n  \"taskInfo\" : {\n    \"address\" : \"1950\",\n    \"pass\" : \"passB\"\n  },\n  \"resultTime\" : \"2018-12-15 10:57:14\",\n  \"taskID\" : \"1950\",\n  \"distributeTime\" : \"2018-12-15 10:56:41\",\n  \"eTaskStatus\" : \"2\",\n  \"taskResult\" : {\n    \"status\" : \"01\"\n  }\n}",
+    "{\n  \"taskName\" : \"at_1951\",\n  \"createTime\" : \"2018-12-13 15:24:06\",\n  \"taskInfo\" : {\n    \"address\" : \"1951\",\n    \"pass\" : \"passB\"\n  },\n  \"resultTime\" : \"2018-12-15 10:58:21\",\n  \"taskID\" : \"1951\",\n  \"distributeTime\" : \"2018-12-15 10:56:41\",\n  \"eTaskStatus\" : \"2\",\n  \"taskResult\" : {\n    \"status\" : \"01\"\n  }\n}",
+    "{\n  \"taskName\" : \"at_1952\",\n  \"createTime\" : \"2018-12-13 15:24:06\",\n  \"taskInfo\" : {\n    \"address\" : \"1952\",\n    \"pass\" : \"passB\"\n  },\n  \"resultTime\" : \"2018-12-15 10:59:28\",\n  \"taskID\" : \"1952\",\n  \"distributeTime\" : \"2018-12-15 10:56:41\",\n  \"eTaskStatus\" : \"2\",\n  \"taskResult\" : {\n    \"status\" : \"01\"\n  }\n}",
+    "{\n  \"taskName\" : \"at_1953\",\n  \"createTime\" : \"2018-12-13 15:24:06\",\n  \"taskInfo\" : {\n    \"address\" : \"1953\",\n    \"pass\" : \"passB\"\n  },\n  \"resultTime\" : \"2018-12-15 11:01:38\",\n  \"taskID\" : \"1953\",\n  \"distributeTime\" : \"2018-12-15 10:56:41\",\n  \"eTaskStatus\" : \"2\",\n  \"taskResult\" : {\n    \"status\" : \"01\"\n  }\n}",
+    "{\n  \"taskName\" : \"at_1954\",\n  \"createTime\" : \"2018-12-13 15:24:06\",\n  \"taskInfo\" : {\n    \"address\" : \"1954\",\n    \"pass\" : \"passB\"\n  },\n  \"resultTime\" : \"2018-12-15 11:02:44\",\n  \"taskID\" : \"1954\",\n  \"distributeTime\" : \"2018-12-15 10:56:41\",\n  \"eTaskStatus\" : \"2\",\n  \"taskResult\" : {\n    \"status\" : \"01\"\n  }\n}",
+    "{\n  \"taskName\" : \"at_1955\",\n  \"createTime\" : \"2018-12-13 15:24:06\",\n  \"taskInfo\" : {\n    \"address\" : \"1955\",\n    \"pass\" : \"passB\"\n  },\n  \"resultTime\" : \"2018-12-15 11:03:51\",\n  \"taskID\" : \"1955\",\n  \"distributeTime\" : \"2018-12-15 10:56:41\",\n  \"eTaskStatus\" : \"2\",\n  \"taskResult\" : {\n    \"status\" : \"01\"\n  }\n}",
+    "{\n  \"taskName\" : \"at_1956\",\n  \"createTime\" : \"2018-12-13 15:24:06\",\n  \"taskInfo\" : {\n    \"address\" : \"1956\",\n    \"pass\" : \"passB\"\n  },\n  \"resultTime\" : \"2018-12-15 11:04:58\",\n  \"taskID\" : \"1956\",\n  \"distributeTime\" : \"2018-12-15 10:56:41\",\n  \"eTaskStatus\" : \"2\",\n  \"taskResult\" : {\n    \"status\" : \"01\"\n  }\n}",
+    "{\n  \"taskName\" : \"at_1957\",\n  \"createTime\" : \"2018-12-13 15:24:06\",\n  \"taskInfo\" : {\n    \"address\" : \"1957\",\n    \"pass\" : \"passB\"\n  },\n  \"resultTime\" : \"2018-12-15 11:06:05\",\n  \"taskID\" : \"1957\",\n  \"distributeTime\" : \"2018-12-15 10:56:41\",\n  \"eTaskStatus\" : \"2\",\n  \"taskResult\" : {\n    \"status\" : \"01\"\n  }\n}",
+    "{\n  \"taskName\" : \"at_1958\",\n  \"createTime\" : \"2018-12-13 15:24:06\",\n  \"taskInfo\" : {\n    \"address\" : \"1958\",\n    \"pass\" : \"passB\"\n  },\n  \"resultTime\" : \"2018-12-15 11:07:12\",\n  \"taskID\" : \"1958\",\n  \"distributeTime\" : \"2018-12-15 10:56:41\",\n  \"eTaskStatus\" : \"2\",\n  \"taskResult\" : {\n    \"status\" : \"01\"\n  }\n}",
+    "{\n  \"taskName\" : \"at_1959\",\n  \"createTime\" : \"2018-12-13 15:24:06\",\n  \"taskInfo\" : {\n    \"address\" : \"1959\",\n    \"pass\" : \"passB\"\n  },\n  \"resultTime\" : \"2018-12-15 11:08:22\",\n  \"taskID\" : \"1959\",\n  \"distributeTime\" : \"2018-12-15 10:56:41\",\n  \"eTaskStatus\" : \"2\",\n  \"taskResult\" : {\n    \"status\" : \"01\"\n  }\n}"
   ],
   "createTime" : "2018-12-13 15:24:06",
+  "resultTime" : "2018-12-15 11:08:22",
   "groupID" : "0195",
-  "eGroupStatus" : "2",
+  "eGroupStatus" : "3",
   "distributeTime" : "2018-12-15 10:56:40",
   "groupName" : "g_at_0195"
 }

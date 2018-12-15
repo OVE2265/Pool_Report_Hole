@@ -203,7 +203,7 @@
   "{\n  \"eGroupStatus\" : \"5\",\n  \"groupID\" : \"0201\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0202\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0203\"\n}",
-  "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0204\"\n}",
+  "{\n  \"eGroupStatus\" : \"2\",\n  \"groupID\" : \"0204\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0205\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0206\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0207\"\n}",

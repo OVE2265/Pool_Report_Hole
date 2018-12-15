@@ -225,7 +225,7 @@
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0223\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0224\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0225\"\n}",
-  "{\n  \"eGroupStatus\" : \"2\",\n  \"groupID\" : \"0226\"\n}",
+  "{\n  \"eGroupStatus\" : \"5\",\n  \"groupID\" : \"0226\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0227\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0228\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0229\"\n}",

@@ -94,7 +94,7 @@
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0092\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0093\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0094\"\n}",
-  "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0095\"\n}",
+  "{\n  \"eGroupStatus\" : \"2\",\n  \"groupID\" : \"0095\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0096\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0097\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0098\"\n}",

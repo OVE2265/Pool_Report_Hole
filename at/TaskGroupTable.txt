@@ -281,7 +281,7 @@
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0279\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0280\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0281\"\n}",
-  "{\n  \"eGroupStatus\" : \"2\",\n  \"groupID\" : \"0282\"\n}",
+  "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0282\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0283\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0284\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0285\"\n}",

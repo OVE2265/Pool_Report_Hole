@@ -339,7 +339,7 @@
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0337\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0338\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0339\"\n}",
-  "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0340\"\n}",
+  "{\n  \"eGroupStatus\" : \"2\",\n  \"groupID\" : \"0340\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0341\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0342\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0343\"\n}",

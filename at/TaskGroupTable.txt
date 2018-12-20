@@ -364,5 +364,5 @@
   "{\n  \"eGroupStatus\" : \"5\",\n  \"groupID\" : \"0362\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0363\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0364\"\n}",
-  "{\n  \"eGroupStatus\" : \"2\",\n  \"groupID\" : \"0365\"\n}"
+  "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0365\"\n}"
 ]

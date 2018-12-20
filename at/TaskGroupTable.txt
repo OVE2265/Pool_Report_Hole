@@ -356,7 +356,7 @@
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0354\"\n}",
   "{\n  \"eGroupStatus\" : \"5\",\n  \"groupID\" : \"0355\"\n}",
   "{\n  \"eGroupStatus\" : \"3\",\n  \"groupID\" : \"0356\"\n}",
-  "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0357\"\n}",
+  "{\n  \"eGroupStatus\" : \"2\",\n  \"groupID\" : \"0357\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0358\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0359\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0360\"\n}",

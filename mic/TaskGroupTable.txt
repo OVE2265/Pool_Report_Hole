@@ -3,7 +3,7 @@
   "{\n  \"eGroupStatus\" : \"4\",\n  \"groupID\" : \"0001\"\n}",
   "{\n  \"eGroupStatus\" : \"4\",\n  \"groupID\" : \"0002\"\n}",
   "{\n  \"eGroupStatus\" : \"4\",\n  \"groupID\" : \"0003\"\n}",
-  "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0004\"\n}",
+  "{\n  \"eGroupStatus\" : \"2\",\n  \"groupID\" : \"0004\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0005\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0006\"\n}",
   "{\n  \"eGroupStatus\" : \"1\",\n  \"groupID\" : \"0007\"\n}",
